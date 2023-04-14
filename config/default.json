@@ -1,0 +1,9 @@
+{
+    "wadia":{
+        "dbConfig":{
+            "host":"localhost",
+            "port":"27017",
+            "dbName":"visaero-stage"
+        }
+    }
+}
